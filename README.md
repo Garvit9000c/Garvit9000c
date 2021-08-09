@@ -28,5 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvit9000c&" alt="garvit9000c" /></p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Garvit9000c&repo=PosMate&show_owner=true&theme=dark)](https://github.com/Garvit9000c/PosMate)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Garvit9990"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Garvit9990" /></a></p><br><br>
