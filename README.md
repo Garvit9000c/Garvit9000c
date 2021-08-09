@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision | NLP | Neural Networks**
 
-- 📫 How to reach me **909garvit@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T09lTr2CPG5Sg4rudqLCjEHI7Ufs9vxs/view?usp=sharing)
+- 📫 How to reach me **909garvit@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
