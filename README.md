@@ -32,6 +32,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Garvit9000c&repo=Decode-X&show_owner=true&theme=dark)](https://github.com/Garvit9000c/Decode-X)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Garvit9000c&repo=texam&show_owner=true&theme=dark)](https://github.com/Garvit9000c/texam)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=Quelix&show_owner=true&theme=dark)](https://github.com/Dart9000/Quelix)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=OpenX&show_owner=true&theme=dark)](https://github.com/Dart9000/OpenX)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=TumorCNN&show_owner=true&theme=dark)](https://github.com/Dart9000/TumorCNN)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Garvit9990"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Garvit9990" /></a></p><br><br>
