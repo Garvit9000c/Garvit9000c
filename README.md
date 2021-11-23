@@ -33,7 +33,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Garvit9000c&repo=PosMate&show_owner=true&theme=dark)](https://github.com/Garvit9000c/PosMate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Garvit9000c&repo=Decode-X&show_owner=true&theme=dark)](https://github.com/Garvit9000c/Decode-X)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Garvit9000c&repo=texam&show_owner=true&theme=dark)](https://github.com/Garvit9000c/texam)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=Quelix&show_owner=true&theme=dark)](https://github.com/Dart9000/Quelix)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=Quelix&show_owner=true&theme=dark)](https://github.com/Dart9000/Quelix2.0)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=OpenX&show_owner=true&theme=dark)](https://github.com/Dart9000/OpenX)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dart9000&repo=TumorCNN&show_owner=true&theme=dark)](https://github.com/Dart9000/TumorCNN)
 
