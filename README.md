@@ -30,7 +30,7 @@ I'm a Data Science Undergraduate from Indian Institute of Technology Madras, cla
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvit9000c&" alt="garvit9000c" /></p>
 
 <h3 align="left">Click For Plug-into Zetaverse : Project Gallery</h3>
-<p align="left"><a href="https://zetaverse.netlify.app/"> <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/9207.png" alt="Zetaverse" /></a></p>
+<p align="center"><a href="https://zetaverse.netlify.app/"> <img src="https://github.com/Garvit9000c/Garvit9000c/blob/main/ZETAVERSE.png?raw=true" alt="Zetaverse" /></a></p>
 
 
 
